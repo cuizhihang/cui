@@ -1,2 +1,6 @@
 abcd
+<<<<<<< HEAD
 bbbb
+=======
+aaaaa
+>>>>>>> ebdeeb43468135b1ff29fa9e6944fdbe940e2d2d
